@@ -1,1 +1,1 @@
-RobotFriends App with classes
+robofriends App using classes
